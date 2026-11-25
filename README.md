@@ -31,7 +31,7 @@ Customer Shopping Trends dataset (Kaggle): 3,900 records, 19 columns covering de
 The dataset appears synthetic, with very even distributions, so differences between segments are small. Findings should be confirmed on real transaction data.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot%202026-11-25%20131029.png)
 
 ## Files
 - `shopping_trends_clean.csv`: cleaned dataset
